@@ -10,6 +10,7 @@ function App() {
     <>
       <div>
         <p className="bg-slate-400 p-5">lorem</p>
+        <div className="font-extrabold">This is a bold text</div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
