@@ -563,6 +563,15 @@ video {
   padding: 1.25rem;
 }
 
+.font-extrabold {
+  font-weight: 800;
+}
+
+.text-green-500 {
+  --tw-text-opacity: 1;
+  color: rgb(34 197 94 / var(--tw-text-opacity, 1));
+}
+
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
